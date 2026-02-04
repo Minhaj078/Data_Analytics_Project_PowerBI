@@ -19,4 +19,7 @@ This Power BI dashboard analyzes healthcare data to track patient admissions, tr
 Power BI | DAX | Power Query | Data Modeling
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
+![Power BI Dashboard](Screenshot%202025-12-20%20230050.png)
+![Power BI Dashboard](Screenshot%202025-12-20%20230132.png)
+![Power BI Dashboard](Screenshot%202025-12-20%20230201.png)
+
